@@ -17,3 +17,7 @@
 - Kita harus melakukan create pull request, karena kita meminta pemilik branch master untuk menarik apa yang ada di dalam branch lain ke dalam branch master itu.
 - Ketika kita membuat lebih dari 1 branch, ketika menggabungkan dengan master, kita harus merging nya satu per satu
 - Kalau kita membuat 2 branch yang isi dari kedua branch itu ada yang mirip satu sama lain, ketika branch 1 sudah dimerge ke branch master, dan branch master yang baru ingin dimerge ke branch 2, akan ada konflik (can't automatically merge) meskipun tetap bisa "create a pull request". Sebagai pemilik master, kita yang harus "resolve conflicts" tersebut. Ketika kita mengklik "resolve conflicts", kita akan diarahkan ke code editor di mana kita harus memilih ingin menggunakan yang mana. Setelah itu, klik "mark as resolved", dan klik "commit merge", dan klik "confirm merge"
+
+
+
+link screenshot kerjain tugas https://drive.google.com/drive/folders/1-QJO-BKTDs_mzQUKUgLWooadfhn0Stm4?usp=sharing

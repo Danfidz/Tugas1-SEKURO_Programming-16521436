@@ -9,3 +9,5 @@
 - Apabila kita ingin mengedit commit itu, kita bisa membuka file commit nya, klik "edit this file" di sebelah kanan, lalu tambahkan. Setelah itu scroll ke bagian commit changes lagi. Setelah melakukan beberapa perubahan, filenya tetap hanya akan jadi 1, tapi kita bisa melihat perubahan" yang telah terjadi untuk file itu aja di bagian "history".
 - Ketika menambahkan sesuatu, akan ada tanda "+" dan barisnya berwarna hijau di sesuatu yang ditambahkan itu. Ketika menghilangkan sesuatu, akan ada tanda "-" dan barisnya berwarna merah di sesuatu yang dihilangkan
 - Kalau ingin melihat perubahan yang terjadi pada repo nya, bisa dilihat di bagian jumlah commits nya. Kalau ingin melihat perubahan pada repo secara visual, bisa di bagian "Insights" lalu ke "Network"
+
+link screenshot kerjain tugas https://drive.google.com/drive/folders/1-QJO-BKTDs_mzQUKUgLWooadfhn0Stm4?usp=sharing
