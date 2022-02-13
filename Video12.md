@@ -6,3 +6,5 @@
 -	Buat file bernama “.gitignore” yang di dalamnya isi file apa saja yg tidak ingin di add maupun di commit. 
 -	Tulis nama file yg tidak ingin di add dan commit ke dalam file .gitignore
 -	Tidak hanya file, folder dan exe bisa di hide di dalam .gitignore
+
+link screenshot kerjain tugas https://drive.google.com/drive/folders/1-QJO-BKTDs_mzQUKUgLWooadfhn0Stm4?usp=sharing

@@ -15,3 +15,5 @@
 -	Dari pihak pemilik repo, dia akan bisa melihat request perubahan terhadap rep nya di akun dia bagian pul requests
 
 -	
+
+link screenshot kerjain tugas https://drive.google.com/drive/folders/1-QJO-BKTDs_mzQUKUgLWooadfhn0Stm4?usp=sharing

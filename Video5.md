@@ -31,3 +31,5 @@ Untuk menkonfigurasi akun git dapat menggunakan command:
 
 git checkout <5 digit depan code commit> 
 git checkout ini untuk melihat history untuk commit tersebut
+
+link screenshot kerjain tugas https://drive.google.com/drive/folders/1-QJO-BKTDs_mzQUKUgLWooadfhn0Stm4?usp=sharing
